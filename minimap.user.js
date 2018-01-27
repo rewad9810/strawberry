@@ -63,7 +63,7 @@ window.addEventListener('load', function () {
         '</div><div id="minimap-config" style="line-height:20px;">' +
         '<span id="hide-map" style="cursor:pointer;">Haritayı Sakla' +
         '</span> | <span id="follow-mouse" style="cursor:pointer;">Fareyi Takip Et' +
-        '</span> | Yakınlaştır: <span id="zoom-plus" style="cursor:pointer;font-weight:bold;">+</span>  /  ' +
+        '</span> | Zoom: <span id="zoom-plus" style="cursor:pointer;font-weight:bold;">+</span>  /  ' +
         '<span id="zoom-minus" style="cursor:pointer;font-weight:bold;">-</span>' +
         '</div>' +
         '</div>';
