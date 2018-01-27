@@ -26,9 +26,6 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 
 ### Toplam pixel sayısı =1553095
 
-#### VoidGirl
-[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/test.png)](http://pixelcanvas.io/@-1197,-421)
-
 #### Strawberry
 [![](https://raw.githubusercontent.com/rewad9810/strawberry/master/images/strawberry.png)](http://pixelcanvas.io/@-4307,5787)
 
