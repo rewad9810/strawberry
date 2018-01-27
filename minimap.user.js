@@ -128,13 +128,13 @@ window.addEventListener('load', function () {
     document.getElementById("follow-mouse").onclick = function () {
         toggle_follow = !toggle_follow;
         if (toggle_follow) {
-            this.innerHTML = "Fareyi Takip Et";
+            this.innerHTML = "Follow Mouse";
             loadTemplates();
             x_window = x;
             y_window = y;
             drawCursor();
         } else {
-            this.innerHTML = "Ekranı Takip Et";
+            this.innerHTML = "Follow Window";
             getCenter();
         }
     };
@@ -289,7 +289,7 @@ function loadTemplates() {
         if (zooming_in == false && zooming_out == false) {
             document.getElementById("minimap-box").style.display = "none";
             document.getElementById("minimap-text").style.display = "block";
-            document.getElementById("minimap-text").innerHTML = "Burada Şablon Bulunamadı";
+            document.getElementById("minimap-text").innerHTML = "No Template in this area";
         }
     } else {
         document.getElementById("minimap-box").style.display = "block";
